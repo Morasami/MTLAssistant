@@ -19,3 +19,11 @@ to use the script on your local machine all you need to have is selenium, to ins
 ```
 pip install selenium
 ```
+to run the script use
+```
+py mtla.py
+```
+or to use in headless mode
+```
+py mtla.py -headless
+```
